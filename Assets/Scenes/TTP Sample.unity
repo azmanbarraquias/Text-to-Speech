@@ -357,9 +357,28 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   audioSource: {fileID: 912101688}
-  textContent: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
-  voiceSpeed: -1
+  textContent: ' keep it juicy juicy, I eat that lunch (yeah)
+
+    She keep that
+    booty booty, she keep that plump (yeah yeah)
+
+    That natural beauty beauty,
+    yeah, yeah
+
+    If you could see it from the front, wait ''til you see it from
+    the
+
+    Back, back, back, back, back (wait ''til you see it from the)
+
+    Back,
+    back, yeah, back, back, back (wait ''til you see it from the)
+
+    Back, back,
+    back, back, back (wait ''til you see it from the)
+
+    If you could see it from
+    the front, wait ''til you see it from the back'
+  voiceSpeed: 1
   loadingUI: {fileID: 1534617280}
   playButton: {fileID: 265080851}
   pauseButton: {fileID: 725421440}
